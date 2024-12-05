@@ -43,19 +43,7 @@
           <b>prawe menu</b>
           <ul>
             <li>
-              <a href="plik_katana.html" target="obszar_glowny" style="display: inline-block; background-color: green; width: 100px; height: 40px; text-decoration: none; border-radius: 5px;" title="Pobierz plik"></a>
-            </li>
-            <li>
-              <a href="tabela_katana.html" target="obszar_glowny" style="display: inline-block; background-color: blue; width: 100px; height: 40px; text-decoration: none; border-radius: 5px;" title="Zobacz tabelę"></a>
-            </li>
-            <li>
-              <a href="formularz_katana.html" target="obszar_glowny" style="display: inline-block; background-color: yellow; width: 50px; height: 50px; text-decoration: none; border-radius: 50%; display: inline-block;" title="Zobacz formularz"></a>
-            </li>
-            <li>
-              <a href="poczta_katana.html" target="obszar_glowny" style="display: inline-block; width: 0; height: 0; border-left: 25px solid transparent; border-right: 25px solid transparent; border-bottom: 50px solid red; text-decoration: none;" title="Wyślij pocztę"></a>
-            </li>
-            <li>
-              <a href="iindex.html" target="obszar_glowny" style="display: inline-block; background-color: green; width: 100px; height: 40px; text-decoration: none; border-radius: 5px;" title="Zadania od Z1 do Z6"></a>
+              <a href="index.html" target="obszar_glowny" style="display: inline-block; background-color: green; width: 100px; height: 40px; text-decoration: none; border-radius: 5px;" title="Zadania od Z1 do Z6"></a>
             </li>
           </ul>
         </td>
